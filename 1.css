@@ -177,6 +177,12 @@ big {
 
 body {
 	background-image: url(images/background.jpg);
+	height: 10px;
+	background-color: #211020 !important;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
 } 
 
 #page{
