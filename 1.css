@@ -20,6 +20,7 @@
     background-image: url(images/background_footer.jpg);
     margin-bottom: 20px;
     border-radius: 0px 0px 5px 5px;
+    background-size: cover;
 }
 
 footer {
@@ -49,6 +50,7 @@ footer {
 #bottom {
 	background-image: url(images/background_bottom.jpg);
 	padding-bottom: 25px;
+	background-size: cover;
 }
 
 .col-md-2.go {
